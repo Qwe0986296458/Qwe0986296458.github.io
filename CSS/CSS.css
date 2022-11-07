@@ -1,1 +1,12 @@
 /*HTML*/
+body{
+    font-size: 1rem;
+}
+a{
+    color: rgb(236, 158, 173);
+    text-decoration: midnightblue;
+}
+/*CLASS*/
+.reg-cls{
+    background-color: #be6b27;
+}
